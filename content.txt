@@ -2,4 +2,5 @@ apple
 ball
 cat 
 duck
-elephant
+easter
+frog
