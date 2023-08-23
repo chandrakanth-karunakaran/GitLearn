@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-bricz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73cd70fc-5dcb-4854-bb04-ade4ce25f78a",
+		"tenantId": "094d25ba-3306-4bc2-b789-6eb55f87b309"
+	}
+}
